@@ -1,5 +1,6 @@
 ExtJS
   https://www.extjs-tutorial.com/
+  https://www.sencha.com/legal/gpl/
   
   
 https://github.com/tonsky/FiraCode
