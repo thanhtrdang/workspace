@@ -4,7 +4,7 @@ ExtJS
   http://cdn.sencha.com/ext/gpl/ext-6.2.0-gpl.zip
   http://docs.sencha.com/misc/guides/offline_docs.html
   
-  
+https://community.atlassian.com/t5/Sourcetree-questions/Sourcetree-keeps-asking-for-bitbucket-password-on-windows/qaq-p/241278 
 https://github.com/tonsky/FiraCode
 
 -> code --list-extensions
